@@ -1,0 +1,35 @@
+ID,"In the last month, how often have you been upset because of something that happened unexpectedly?","In the last month, how often have you felt that you were unable to control the important things in your life?","In the last month, how often have you felt nervous and ""stressed""?","In the last month, how often have you felt confident about your ability to handle your personal problems?","In the last month, how often have you felt that things were going your way?","In the last month, how often have you found that you could not cope with all the things that you had to do?","In the last month, how often have you been able to control irritations in your life?","In the last month, how often have you felt that you were on top of things?","In the last month, how often have you been angered because of things that happened that were outside of your control?","In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",Name,Age,Gender,Total Anxiety Score,Anxiety Level
+1,2,1,2,0,2,2,2,2,1,2,Ravi pre,21,Male,16,Low
+2,1,1,2,1,1,1,2,2,4,0,Ravi post,21,Male,15,Low
+3,2,2,1,2,2,1,2,2,1,2,Rohit pre,21,Male,17,Low
+4,1,1,1,3,3,1,2,2,2,2,Rohit post,21,Male,18,Low
+5,2,2,3,2,3,2,2,1,3,2,Aman pre,20,Male,22,High
+6,3,3,3,1,3,1,3,3,1,1,Aman post ,20,Male,22,High
+7,2,2,2,1,1,3,1,2,3,2,Rohan pre,22,Male,19,High
+8,1,2,2,3,2,1,2,2,2,2,Rohan post,22,Male,19,High
+9,3,3,3,2,2,3,2,2,3,3,Amit pre,20,Male,26,High
+10,0,0,0,2,2,3,2,2,3,3,Amit post ,20,Male,17,Low
+11,3,3,2,3,3,3,3,3,2,2,Anand pre,21,Male,27,High
+12,1,1,1,1,1,3,3,3,2,2,Anand post,21,Male,18,Low
+13,2,2,2,3,3,3,1,1,2,2,Anmol pre,20,Male,21,High
+14,2,2,0,2,2,3,1,1,2,2,Anmol post,20,Male,17,Low
+15,1,1,1,3,3,1,3,3,2,2,Atharva pre,21,Male,20,High
+16,0,0,1,3,3,1,3,3,2,2,Atharv post,21,Male,18,Low
+17,0,0,0,2,2,1,3,3,1,1,Mahesh pre ,20,Male,13,Low
+18,0,0,0,2,2,1,3,3,1,0,Mahesh post,20,Male,12,Low
+19,2,2,2,3,3,1,3,3,3,3,Mohit pre ,21,Male,25,High
+20,2,2,2,3,3,1,3,3,2,2,Mohit post,21,Male,23,High
+21,2,2,2,3,3,1,3,3,3,3,Saransh pre,21,Male,25,High
+22,1,1,1,3,3,1,3,3,2,2,Saransh post,21,Male,20,High
+23,3,2,3,2,2,2,1,2,2,3,Satyam pre,21,Male,22,High
+24,0,0,1,2,2,3,2,2,3,3,Satyam post,21,Male,18,Low
+25,1,1,0,0,0,3,1,1,2,2,Saurabh pre,21,Male,11,Low
+26,1,1,0,0,0,3,1,1,2,1,Saurabh post,21,Male,10,Low
+27,2,2,2,3,3,3,1,1,2,2,Soham 21 pre,21,Male,21,High
+28,2,2,2,3,3,3,1,1,1,1,Soham post,21,Male,19,High
+29,0,0,1,2,2,3,2,2,3,3,Somesh pre,20,Male,18,Low
+30,0,0,0,2,2,3,2,2,3,3,Somesh post,20,Male,17,Low
+31,0,0,1,0,0,3,2,2,4,4,Zishan pre,21,Male,16,Low
+32,0,0,1,0,0,3,2,2,2,2,Zishan post,21,Male,12,Low
+33,3,2,3,2,3,3,2,2,3,3,Harshal pre,21,Male,26,High
+34,0,0,3,2,3,3,2,2,3,3,Harshal pos,21,Male,21,High

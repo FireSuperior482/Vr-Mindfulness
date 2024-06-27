@@ -1,0 +1,37 @@
+ID,Name,age,Gender,I could be experiencing some emotion and not be conscious of it until some time later.,"I break or spill things because of carelessness, not paying attention, or thinking of something else.",I find it difficult to stay focused on what's happening in the present.,I tend to walk quickly to get where I'm going without paying attention to what I experience along the way.,I tend not to notice feelings of physical tension or discomfort until they really grab my attention.,I forget a person's name almost as soon as I've been told it for the first time.,"It seems I am ""running on automatic,"" without much awareness of what I'm doing.",I rush through activities without being really attentive to them.,I get so focused on the goal I want to achieve that I lose touch with what I'm doing right now to get there.,"I do jobs or tasks automatically, without being aware of what I'm doing.","I find myself listening to someone with one ear, doing something else at the same time.",I drive places on 'automatic pilot' and then wonder why I went there.,I find myself preoccupied with the future or the past.,I find myself doing things without paying attention.,I snack without being aware that I'm eating.,Total Anxiety Score,Anxiety Level
+1,Ravi pre,21,Male,4,5,1,4,2,2,3,3,3,2,2,2,2,2,2,39,High
+2,Ravi post ,21,Male,1,2,1,1,2,1,2,2,3,2,2,2,2,2,2,27,Low
+3,Rohit pre,21,Male,2,4,4,3,3,3,3,4,4,4,4,4,4,4,4,54,High
+4,Rohit post,21,Male,2,2,2,2,2,2,2,2,6,2,2,3,6,5,2,42,High
+5,Aman,20,Male,5,5,5,5,5,6,4,6,4,6,4,2,2,2,2,63,High
+6,Aman post ,20,Male,2,2,2,2,2,2,3,3,4,3,2,4,2,4,2,39,High
+7,Rohan pre,22,Male,4,4,5,4,5,4,5,3,4,5,4,5,4,5,5,66,High
+8,Rohan post ,22,Male,3,3,3,3,3,3,3,2,4,2,4,2,2,1,3,41,High
+9,Somesh ,20,Male,2,2,2,2,2,2,3,3,3,2,4,2,2,3,3,37,Low
+10,Somesh post,20,Male,1,2,2,1,2,2,2,2,2,1,2,2,2,2,1,26,Low
+11,Amit pre,20,Male,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,30,Low
+12,Amit post ,20,Male,2,1,1,1,2,2,2,2,2,2,2,2,2,1,2,26,Low
+13,Anand pre,21,Male,3,3,2,2,3,3,3,3,2,3,3,3,3,3,3,42,High
+14,Anand post,21,Male,2,2,2,2,2,3,3,1,1,2,3,2,1,2,1,29,Low
+15,Anmol pre,20,Male,4,3,4,4,4,4,3,3,3,3,3,3,3,2,2,48,High
+16,Anmol post,21,Male,2,2,2,2,3,3,3,3,3,3,2,3,2,2,2,37,Low
+17,Atharv pre,21,Male,2,2,2,2,2,2,3,3,3,3,3,3,2,3,3,38,Low
+18,Atharva post,21,Male,2,2,2,2,2,2,2,2,3,3,1,1,1,2,1,28,Low
+19,Mahesh pre,20,Male,4,3,3,3,4,3,4,3,3,3,3,3,3,3,3,48,High
+20,Mahesh post,20,Male,3,3,3,2,2,3,2,2,2,2,3,2,3,2,3,37,Low
+21,Mohit pre,21,Male,2,3,2,3,3,2,3,3,2,2,2,2,3,3,3,38,Low
+22,Mohit post,21,Male,2,2,2,2,2,2,2,2,1,1,1,1,2,2,2,26,Low
+23,Saransh pre,21,Male,4,3,3,3,3,3,2,2,2,2,3,4,4,3,4,45,High
+24,Saransh post,21,Male,1,2,2,2,2,2,4,4,3,1,1,1,2,2,2,31,Low
+25,Satyam pre ,21,Male,3,2,3,2,4,2,2,3,3,3,3,3,4,3,3,43,High
+26,Satyam post,21,Male,2,2,2,2,2,3,3,2,2,1,3,3,2,3,2,34,Low
+27,Saurabh pre,21,Male,3,4,3,2,3,3,3,3,3,2,2,3,4,3,3,44,High
+28,Saurabh post,21,Male,2,3,2,2,2,2,2,2,3,2,2,2,2,2,2,32,Low
+29,Zishan pre,21,Male,3,3,4,4,5,3,2,3,4,4,3,3,4,3,3,51,High
+30,Zishan post,21,Male,2,2,3,3,3,3,3,3,3,2,2,2,3,2,1,37,Low
+31,Soham pre,21,Male,3,4,2,2,3,4,2,2,2,3,3,3,3,3,3,42,High
+32,Soham post,21,Male,1,2,2,2,2,1,3,3,3,2,3,2,2,2,2,32,Low
+33,Harshal pre,21,Male,4,3,3,4,3,4,2,3,3,3,3,4,4,3,3,49,High
+34,Harshal post,21,Male,2,2,2,1,2,2,2,1,3,2,3,3,3,2,1,31,Low
+35,Harshit pre,21,Male,2,2,2,3,2,2,3,3,3,3,3,3,3,3,3,40,High
+36,Harshit post,21,Male,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,29,Low

@@ -1,0 +1,39 @@
+ID,I found it hard to wind down,I was aware of dryness of my mouth,I couldn't seem to experience any positive feeling at all,"I experienced breathing difficulty (e.g. excessively rapid breathing, breathlessness in the absence of physical exertion)",I found it difficult to work up the initiative to do things,I tended to over-react to situations,I experienced trembling (e.g. in the hands),I felt that I was using a lot of nervous energy,I was worried about situations in which I might panic and make a fool of myself,I felt that I had nothing to look forward to,I found myself getting agitated,I found it difficult to relax,I felt down-hearted and blue,I was intolerant of anything that kept me from getting on with what I was doing,I felt I was close to panic,I was unable to become enthusiastic about anything,I felt I wasn't worth much as a person,I felt that I was rather touchy,"I was aware of the action of my heart in the absence of physical exertion (e.g. sense of heart rate increase, heart missing a beat)",I felt scared without any good reason,I felt that life was meaningless,Name,gender,"age
+
+",Total Anxiety Score,Anxiety Level
+1,0,0,0,1,1,2,1,0,0,1,1,1,1,1,0,0,1,2,0,0,0,Rohit pre ,Male,21,13,Low
+2,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,Rohit post ,Male,21,6,Low
+3,2,2,2,2,1,1,2,2,1,1,2,1,1,1,0,1,1,1,1,2,1,Aman pre,Male,21,28,High
+4,0,0,0,0,0,0,0,0,1,1,1,2,2,1,2,2,2,2,2,2,2,Aman post,Male,21,22,High
+5,1,1,1,2,2,1,2,1,2,1,2,1,2,1,2,1,1,1,0,0,0,Rohan pre,Male,21,25,High
+6,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,3,0,0,Rohan post,Male,21,8,Low
+7,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,Ravi pre,Male,21,39,High
+8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,2,1,1,Ravi post,Male,21,24,High
+9,0,0,0,1,1,1,1,0,1,0,1,0,1,0,1,0,0,0,1,1,1,Amit pre,Male,21,11,Low
+10,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,Amit post,Male,21,6,Low
+11,2,2,2,2,1,1,1,1,1,2,1,2,1,1,1,2,2,2,2,2,2,Anand pre,Male,21,33,High
+12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Anand post,Male,21,21,High
+13,1,1,0,0,0,0,0,1,1,0,0,1,2,2,1,1,1,1,1,0,0,Anmol pre,Male,21,14,Low
+14,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,0,Anmol post ,Male,21,10,Low
+15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Atharv pre,Male,21,2,Low
+16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Atharva post,Male,21,0,Low
+17,1,1,2,1,0,1,1,0,0,1,2,1,1,1,0,0,0,1,0,0,2,Mahesh pre,Male,21,16,Low
+18,1,1,1,2,0,1,1,0,0,1,1,0,1,1,0,1,1,1,1,0,1,Mahesh post,Male,21,16,Low
+19,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,Mohit pre,Male,21,10,Low
+20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Mohit post ,Male,21,3,Low
+21,3,2,3,2,3,2,1,1,2,3,3,2,1,1,2,3,3,2,1,1,1,Saransh pre,Male,21,42,High
+22,2,2,3,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Saransh post,Male,21,28,High
+23,1,2,1,0,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,0,2,Satyam pre,Male,21,16,Low
+24,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,Satyam post,Male,21,8,Low
+25,1,1,1,0,1,2,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,Saurabh pre,Male,21,24,High
+26,0,0,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,Saurabh post,Male,21,15,Low
+27,2,1,1,2,1,3,1,2,1,2,1,2,2,1,1,0,2,0,1,0,0,Soham pre,Male,21,26,High
+28,1,1,1,1,0,0,0,2,2,1,1,1,1,1,1,1,1,1,1,1,1,Soham post,Male,21,20,High
+29,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,0,1,2,3,Somesh pre,Male,21,18,Low
+30,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,1,Somesh post,Male,21,11,Low
+31,2,1,1,1,1,2,1,2,0,3,1,1,2,2,1,1,1,2,1,1,3,Zishan pre,Male,21,30,High
+32,2,1,1,1,1,1,1,1,0,1,2,1,1,1,1,1,1,2,1,1,2,Zishan post,Male,21,24,High
+33,2,2,1,2,2,2,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,Harshal pre,Male,21,38,High
+34,0,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,0,1,0,Harshal post,Male,21,13,Low
+35,2,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Harshit pre,Male,21,21,High
+36,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Harshit post,Male,21,17,Low
